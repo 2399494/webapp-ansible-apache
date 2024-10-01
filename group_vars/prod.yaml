@@ -1,0 +1,4 @@
+---
+ansible_user: deploy
+ansible_sudo_pass: lifeattack1
+
